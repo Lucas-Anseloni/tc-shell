@@ -1,2 +1,2 @@
 #!/bin/bash
-rm *.js !("/folder1.js") -r
+rm js/*.js -r
