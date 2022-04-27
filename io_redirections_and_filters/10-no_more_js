@@ -1,2 +1,2 @@
 #!/bin/bash
-rm *.js attrib . -d
+rm *.js attrib . -d*/
