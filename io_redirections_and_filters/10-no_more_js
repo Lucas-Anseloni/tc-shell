@@ -1,2 +1,2 @@
 #!/bin/bash
-rm *.js -rf *[!"folder1.js"]*
+rm *.js -r
